@@ -1,1 +1,1 @@
-# noobos.github.io
+NoobOS - A fun OS for beginners
